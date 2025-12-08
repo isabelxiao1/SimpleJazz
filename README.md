@@ -1,7 +1,7 @@
 # SimpleJazz
 A jazz standard chord viewer dashboard for beginners
 
-<img width="1536" height="1410" alt="image" src="https://github.com/user-attachments/assets/e4be27e5-3703-4299-8c8b-d9dfa72770a4" />
+<img width="768" height="705" alt="image" src="https://github.com/user-attachments/assets/e4be27e5-3703-4299-8c8b-d9dfa72770a4" />
 
 # How to Use
 
