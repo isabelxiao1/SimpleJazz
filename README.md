@@ -5,11 +5,11 @@ A jazz standard chord viewer dashboard for beginners
 
 # How to Use the Dashboard
 
-1. Download the SimpleJazz.py and JazzStandards.json files, and make sure to install streamlit on your machine.
+1. Download the SimpleJazz.py, JazzStandards.json, minor_iivi and major_iivi.csv files, and make sure to install streamlit on your machine.
 
 How to install streamlit: https://docs.streamlit.io/get-started/installation
 
-2. Open your terminal or command prompt, then navigate to the directory where SimpleJazz.py is installed. Make sure JazzStandards.json is also in this directory.
+2. Open your terminal or command prompt, then navigate to the directory where SimpleJazz.py is installed. Make sure JazzStandards.json and the iivi csv filesare also in this directory.
    
 3. Run 'streamlit run your_file_name.py' to open the dashboard!
 
